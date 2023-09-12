@@ -24,11 +24,11 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+npm start
 ```
 
-### Compile and Minify for Production
+### You should now see the following output at the bottom of your terminal:
 
 ```sh
-npm run build
+🚀  Server ready at: http://localhost:4000/
 ```
